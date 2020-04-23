@@ -13,3 +13,13 @@
 
 コードは[average_compare.ipynb](average_compare.ipynb)に
 
+
+
+### 比率の差について
+
+2群ならFisher exact検定
+
+3群ならFisher exact + Hochberg法（p値補正方法）
+
+コードは[ratio_compare.ipynb](ratio_compare.ipynb)に
+
